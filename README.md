@@ -27,7 +27,8 @@ The problem is that you have 9 guests.
 ![step 1](./step1.jpg)
 
 2) Look up 9/4 on the interior scale. The red line points to 450 on the main scale.
-   You can mark this with the arrow on the exterior scale.
+   You can mark this with the arrow on the exterior scale. This is your result,
+   you need 450 grams of butter:
 
 ![step 2](./step2.jpg)
 
